@@ -13,11 +13,14 @@ need for custom css.
 ## Usage
 
 Flighty is not for everyone. Flighty is minimalist and (hopefully)
-beautiful. Furthermoe, Flighty is just as experimental as Thinkful is - and
+beautiful. Furthermore, Flighty is just as experimental as Thinkful is - and
 this is fun. So if you want to play around with interesting css and
 contribute to simple elegance, Flighty may be a library to look at.
 
-Thinkful uses Flighty in conjunction with Modernizr.
+If you are looking for a complete and ready-to-go-framework, look
+elsewhere!
+
+Also, Thinkful uses Flighty in conjunction with Modernizr.
 
 ## Documentation
 
@@ -30,9 +33,13 @@ place to look.
 
 ### Looks Good!
 
-Thanks! I'm looking for freelance work right now. I'd like to start immediately. Email me at the address in my profile.
+Thanks! Feel free to contribute in the spirit. Tons of classes are missing
+as you may have noticed. Not much more than was needed for Thinkful has
+been provided.
+
+Also, I'm looking for freelance work right now. So if you're interested,
+email me at the address in my profile.
 
 ### Stop Rewriting Everything!
 
-I hear you. This is just a fun little library to keep myself busy. That
-doesn't necessarily mean it's not interesting!
+I hear you. This is just a little fun!

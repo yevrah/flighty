@@ -64,7 +64,9 @@ textarea {
     border-radius: 5px;
 }
 
-button {
+button,
+input[type="button"],
+input[type="submit"] {
     background-color: #eee;
 }
 
@@ -73,7 +75,9 @@ input[type="text"],
 input[type="password"],
 input[type="email"],
 input[type="number"],
-input[type="search"] {
+input[type="search"],
+input[type="button"],
+input[type="submit"] {
     border: 1px solid #ccc;
     border-radius: 5px;
     padding-left: 10px;

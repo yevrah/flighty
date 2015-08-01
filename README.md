@@ -26,16 +26,15 @@ As an actual usage note, Thinkful uses Flighty in conjunction with Modernizr.
 ## Documentation
 
 Right now, the best source of documentation is the [Thinkful](https://thinkful.me)
-app itself. The html is simple and should be easy to follow. Until the point
-when someone has time to write down some documentation, Thinkful is the best
-place to look.
+app itself or in some standalone jsfiddle-esque pages. The html is simple and
+should be easy to follow. Until the point when someone has time to write down
+some documentation, Thinkful is the best place to look.
 
-However, there is an example form available as well:
+## Examples
 
-## Example
-
-See [here](http://cssdeck.com/labs/ayn3qvhy) for an example form built
-with Flighty.
+- [Thinkful login](https://thinkful.me/login)
+- [Thinkful thoughts](https://thinkful.me/t/thinkful)
+- [Standalone signup page](http://cssdeck.com/labs/ayn3qvhy)
 
 ## Looks Good!
 

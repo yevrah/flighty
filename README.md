@@ -8,7 +8,7 @@ Bootstrap is the goto CSS framework for building MVPs. However, it is very
 large and requires much overhead. Flighty is a very small library with less
 emphasis on extreme portability and design choices. Instead, Flighty provides
 more structural code with the intent that the end-user can style and perfect
-the design. Fundamentally, Flighty just provides a structural boilerplate
+the design. Fundamentally, Flighty provides a structural boilerplate
 for apps.
 
 ## Usage

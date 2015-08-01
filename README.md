@@ -1,6 +1,6 @@
 # Flighty
 
-Flighty is the CSS framework behind [Thinkful](https://thinkful.me).
+Flighty is the CSS framework behind [ThinkfulMe](https://thinkful.me).
 
 ## Motivation
 
@@ -14,32 +14,32 @@ for apps.
 ## Usage
 
 Flighty is not for everyone. Flighty is minimalist and addresses structure.
-Furthermore, Flighty is just as experimental as Thinkful is - and
+Furthermore, Flighty is just as experimental as ThinkfulMe is - and
 this is fun. So if you want to play around with interesting css and
 contribute to simple elegance, Flighty may be a library to look at.
 
 If you are looking for a complete and ready-to-go-framework that makes
 design (as in artistic) decisions for you, look elsewhere!
 
-As an actual usage note, Thinkful uses Flighty in conjunction with Modernizr.
+As an actual usage note, ThinkfulMe uses Flighty in conjunction with Modernizr.
 
 ## Documentation
 
-Right now, the best source of documentation is the [Thinkful](https://thinkful.me)
+Right now, the best source of documentation is the [ThinkfulMe](https://thinkful.me)
 app itself or in some standalone jsfiddle-esque pages. The html is simple and
 should be easy to follow. Until the point when someone has time to write down
-some documentation, Thinkful is the best place to look.
+some documentation, ThinkfulMe is the best place to look.
 
 ## Examples
 
-- [Thinkful login](https://thinkful.me/login)
-- [Thinkful thoughts](https://thinkful.me/t/thinkful)
+- [ThinkfulMe login](https://thinkful.me/login)
+- [ThinkfulMe thoughts](https://thinkful.me/u/thinkfulme)
 - [Standalone signup page](http://cssdeck.com/labs/ayn3qvhy)
 
 ## Looks Good!
 
 Thanks! Feel free to contribute in the spirit. Tons of classes are missing
-as you may have noticed. Not much more than was needed for Thinkful has
+as you may have noticed. Not much more than was needed for ThinkfulMe has
 been provided.
 
 Also, I'm looking for freelance work right now. So if you're interested,

@@ -29,6 +29,13 @@ app itself. The html is simple and should be easy to follow. Until the point
 when someone has time to write down some documentation, Thinkful is the best
 place to look.
 
+However, there is an example form available as well:
+
+## Example
+
+See [here](http://cssdeck.com/labs/ayn3qvhy) for an example form built
+with Flighty.
+
 ## Reactions
 
 ### Looks Good!

@@ -174,6 +174,10 @@ textarea:focus {
     flex-flow: row-reverse;
 }
 
+.row-flex-middle {
+    align-items: center;
+}
+
 .row > *,
 .row-outer-align > *,
 .row-top > *,

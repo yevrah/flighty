@@ -285,3 +285,9 @@ textarea:focus {
         -ms-hyphens: auto;
             hyphens: auto;
 }
+
+.link {
+    text-decoration: underline;
+    cursor: pointer;
+    cursor: hand;
+}

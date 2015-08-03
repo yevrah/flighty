@@ -82,7 +82,7 @@ input[type="submit"] {
     border: 1px solid #ccc;
     border-radius: 5px;
     padding-left: 10px;
-    height: 35px;
+    height: 30px;
 }
 
 input[type="text"]:focus,
@@ -99,7 +99,7 @@ textarea:focus {
     background-color: #f2f2f2;
     position: relative;
     display: block;
-    height: 35px;
+    height: 30px;
     border: 1px solid #ccc;
 }
 
@@ -121,8 +121,8 @@ textarea:focus {
 }
 
 .form-radio input[type="radio"] + span {
-    font-size: 25px;
-    line-height: 35px;
+    font-size: 18px;
+    line-height: 30px;
     position: absolute;
     top: 0;
     left: 0;

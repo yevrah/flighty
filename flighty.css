@@ -137,7 +137,8 @@ textarea:focus {
     background-color: #e2e2e2;
 }
 
-.form-group input {
+.form-group input,
+.form-group .form-radio {
     margin: 5px 0;
 }
 

@@ -224,6 +224,10 @@ textarea:focus {
     width: 20%;
 }
 
+.col-2-5 {
+    width: 25%;
+}
+
 .col-3 {
     width: 30%;
 }
